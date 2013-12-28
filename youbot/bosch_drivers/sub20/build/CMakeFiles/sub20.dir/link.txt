@@ -1,1 +1,0 @@
-/usr/bin/gcc  -fPIC -O3 -DNDEBUG  -pthread   -shared -Wl,-soname,libsub20.so -o ../lib/libsub20.so CMakeFiles/sub20.dir/src/libsub.c.o -lusb-1.0 

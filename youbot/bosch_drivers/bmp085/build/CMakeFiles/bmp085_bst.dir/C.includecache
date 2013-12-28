@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bmp085/bmp085_bst.h
+
+/home/shehzad/catkin_ws/bosch_drivers/bmp085/src/bmp085_bst.c
+bmp085/bmp085_bst.h
+/home/shehzad/catkin_ws/bosch_drivers/bmp085/src/bmp085/bmp085_bst.h
+

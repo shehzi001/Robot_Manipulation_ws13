@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/shehzad/catkin_ws/bosch_drivers/adc_sub20/build/devel/setup.sh

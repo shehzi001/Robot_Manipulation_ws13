@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/shehzad/catkin_ws/bosch_drivers/uniserial/build/devel/setup.sh

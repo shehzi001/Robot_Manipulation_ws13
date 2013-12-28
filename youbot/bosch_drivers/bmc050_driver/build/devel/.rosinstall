@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/shehzad/catkin_ws/bosch_drivers/bmc050_driver/build/devel/setup.sh

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/shehzad/catkin_ws/bosch_drivers/bmp085/build/devel/setup.sh
